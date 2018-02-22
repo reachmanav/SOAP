@@ -1,0 +1,43 @@
+package org.manav.javabrains.model;
+
+import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.XmlType;
+
+import com.sun.xml.internal.txw2.annotation.XmlElement;
+
+@XmlRootElement(name="Product")
+@XmlType
+public class Product {
+
+	private String name; 
+	private String sku; 
+	private double cost;
+	
+	public Product (String name, String sku, double cost)   {
+		this.name =name;
+		this.sku = sku;
+		this.cost = cost;		
+	}
+	
+	//@XmlElement(name="productName")
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getSku() {
+		return sku;
+	}
+	public void setSku(String sku) {
+		this.sku = sku;
+	}
+	public double getCost() {
+		return cost;
+	}
+	public void setCost(double cost) {
+		this.cost = cost;
+	} 
+	
+	
+}

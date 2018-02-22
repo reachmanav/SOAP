@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Tools\eclipse\soap-wks3\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3939787779.index
+962019098.index
+2595641121.index
+3265841917.index
+827400522.index
+684576957.index

@@ -1,0 +1,41 @@
+package org.manav.javabrains;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.jws.WebMethod;
+import javax.jws.WebService;
+
+import org.manav.javabrains.business.ProductServiceImpl;
+
+
+
+
+@WebService
+public class ProductCatalog {
+
+	private ProductServiceImpl productServiceImpl = new ProductServiceImpl();
+	
+	@WebMethod(exclude=false)
+	public List<String> getProductCatalog()  {		
+		return productServiceImpl.getProductCatalog();
+	}
+	
+	@WebMethod(exclude=false)
+	public List<String> getProduct(String category)  {		
+		return productServiceImpl.getProduct(category);
+	}
+	
+	
+	@WebMethod
+	public boolean addProduct(String category, int item)  {		
+		return productServiceImpl.addProduct(category, String.valueOf(item));
+	}
+	
+	
+	@WebMethod(exclude=false)
+	public List<String> getProductv2(String category)  {		
+		return productServiceImpl.getProduct(category);
+	}
+	
+}

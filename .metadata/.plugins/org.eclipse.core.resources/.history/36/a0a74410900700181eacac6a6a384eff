@@ -1,0 +1,22 @@
+package org.manav.javabrains;
+
+import javax.jws.WebMethod;
+import javax.jws.WebParam;
+import javax.jws.WebService;
+
+@WebService
+public class ShopInfo {
+
+	@WebMethod(operationName="GetShopInfo",action="test")
+	public String getShopInfo(@WebParam(partName="property") String property)   {
+		String response = "Invalid Property";
+		
+		if ("shopName".equals(property))  {
+			response = "Test Mart";
+		} else if ("since".equals(property))  {
+			response = "since 2012";
+		}
+		
+		return response;
+	}
+}

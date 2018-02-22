@@ -1,0 +1,29 @@
+package org.manav.javabrains;
+
+import java.util.List;
+
+import javax.jws.WebMethod;
+import javax.jws.WebParam;
+import javax.jws.WebService;
+import javax.jws.soap.SOAPBinding;
+import javax.jws.soap.SOAPBinding.Style;
+
+import org.manav.javabrains.model.Product;
+
+
+@WebService (targetNamespace="http://www.testmart.com",serviceName="TestMartService")
+public interface ProductCatalogInterface {
+
+	@WebMethod(exclude=false)
+	List<String> getProductCatalog();
+
+	@WebMethod(exclude=false)
+	List<String> getProduct(String category);
+
+	@WebMethod(exclude=false)
+	boolean addProduct(@WebParam(name="category") String category, int item);
+
+	@WebMethod(exclude=false)
+	List<Product> getProductv2(String category);
+
+}

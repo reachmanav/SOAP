@@ -1,0 +1,26 @@
+package org.manav.javabrains;
+
+import java.util.List;
+
+import javax.jws.WebMethod;
+import javax.jws.WebService;
+
+import org.manav.javabrains.model.Product;
+
+
+@WebService (targetNamespace="http://www.testmart.com")
+public interface ProductCatalogInterface {
+
+	@WebMethod(exclude=false)
+	List<String> getProductCatalog();
+
+	@WebMethod(exclude=false)
+	List<String> getProduct(String category);
+
+	@WebMethod(exclude=false)
+	boolean addProduct(String category, int item);
+
+	@WebMethod(exclude=false)
+	List<Product> getProductv2(String category);
+
+}

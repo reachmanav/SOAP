@@ -1,0 +1,58 @@
+package org.manav.javabrains;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.jws.WebMethod;
+import javax.jws.WebService;
+
+import org.manav.javabrains.business.ProductServiceImpl;
+import org.manav.javabrains.model.Product;
+
+
+
+
+@WebService(portName="TestMartServicePort",name="TestMartServicePort",serviceName="TestMartService")
+public class ProductCatalog implements ProductCatalogInterface {
+
+	private ProductServiceImpl productServiceImpl = new ProductServiceImpl();
+	
+	/* (non-Javadoc)
+	 * @see org.manav.javabrains.ProductCatalogInterface#getProductCatalog()
+	 */
+	@Override
+	@WebMethod(exclude=false)
+	public List<String> getProductCatalog()  {		
+		return productServiceImpl.getProductCatalog();
+	}
+	
+	/* (non-Javadoc)
+	 * @see org.manav.javabrains.ProductCatalogInterface#getProduct(java.lang.String)
+	 */
+	@Override
+	@WebMethod(exclude=false)
+	public List<String> getProduct(String category)  {		
+		return productServiceImpl.getProduct(category);
+	}
+	
+	
+	/* (non-Javadoc)
+	 * @see org.manav.javabrains.ProductCatalogInterface#addProduct(java.lang.String, int)
+	 */
+	@Override
+	@WebMethod
+	public boolean addProduct(String category, int item)  {		
+		return productServiceImpl.addProduct(category, String.valueOf(item));
+	}
+	
+	
+	/* (non-Javadoc)
+	 * @see org.manav.javabrains.ProductCatalogInterface#getProductv2(java.lang.String)
+	 */
+	@Override
+	@WebMethod(exclude=false)
+	public List<Product> getProductv2(String category)  {	
+		return productServiceImpl.getProductv2(category);
+	}
+	
+}

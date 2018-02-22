@@ -1,0 +1,624 @@
+!SESSION 2018-01-31 15:16:00.865 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data C:\Tools\eclipse\soap-wks3 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-01-31 15:16:14.900
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\manavs'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-01-31 15:16:31.417
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+!SESSION 2018-01-31 15:18:17.395 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data file:/C:/Tools/eclipse/soap-wks3/ -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-01-31 15:18:30.916
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\manavs'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-01-31 15:19:14.955
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-01-31 15:34:17.421
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+!SESSION 2018-01-31 15:35:17.355 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-01-31 15:35:26.388
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\manavs'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-01-31 15:35:29.675
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.jface.text 2 0 2018-01-31 16:28:27.117
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-01-31 16:28:27.119
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-01-31 16:30:38.518
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-01-31 16:30:38.519
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-01-31 16:30:38.609
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-01-31 16:30:38.610
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2018-02-01 13:19:00.629 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-01 13:19:15.849
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\manavs'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-02-01 14:24:27.726
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-02-01 14:24:27.731
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-02-01 14:25:39.819
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-02-01 14:25:39.821
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2018-02-01 16:23:06.837 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-01 16:23:25.718
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\manavs'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:25:46.369
+!MESSAGE Undeploy is failing=
+!STACK 0
+java.lang.Exception: undeploy is failing=Application Testmart is not deployed on this target [server]
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.undeploy(GlassFishServerBehaviour.java:450)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:510)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jface.text 2 0 2018-02-01 16:30:54.890
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-02-01 16:30:54.892
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:34:38.347
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Error occurred during deployment: Exception while loading the app : java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: java.lang.RuntimeException: Servlet web service endpoint '' failure. Please see server.log for more details.
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:34:38.353
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Error occurred during deployment: Exception while loading the app : java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: java.lang.RuntimeException: Servlet web service endpoint '' failure. Please see server.log for more details.
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:35:05.645
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:35:05.648
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:35:23.434
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:35:23.437
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:36:28.625
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:36:28.627
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:36:45.844
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:36:45.848
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:39:57.354
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:39:57.357
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+!SESSION 2018-02-01 16:41:29.935 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-01 16:41:45.194
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\manavs'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:42:32.474
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:42:32.496
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:42:57.001
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:42:57.004
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:45:28.463
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:45:28.466
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:48:14.229
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:48:14.233
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:49:29.337
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:49:29.341
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:50:34.578
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:50:34.580
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Application with name [Testmart] is not deployed
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishDeployedDirectory(GlassFishServerBehaviour.java:603)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:830)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jface.text 2 0 2018-02-01 16:57:38.187
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-02-01 16:57:38.188
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:59:37.862
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Error occurred during deployment: Exception while loading the app : java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: java.lang.RuntimeException: Servlet web service endpoint '' failure. Please see server.log for more details.
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishJarFile(GlassFishServerBehaviour.java:896)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:832)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 16:59:37.865
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Error occurred during deployment: Exception while loading the app : java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: java.lang.RuntimeException: Servlet web service endpoint '' failure. Please see server.log for more details.
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishJarFile(GlassFishServerBehaviour.java:896)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:832)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 17:29:41.053
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Error occurred during deployment: Exception while loading the app : java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: java.lang.RuntimeException: Servlet web service endpoint '' failure. Please see server.log for more details.
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishJarFile(GlassFishServerBehaviour.java:896)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:832)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 17:29:41.055
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Error occurred during deployment: Exception while loading the app : java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: java.lang.RuntimeException: Servlet web service endpoint '' failure. Please see server.log for more details.
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishJarFile(GlassFishServerBehaviour.java:896)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:832)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 17:45:09.550
+!MESSAGE deploy is failing=
+!STACK 0
+java.lang.Exception: deploy is failing=Error occurred during deployment: Exception while loading the app : java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: java.lang.RuntimeException: Servlet web service endpoint '' failure. Please see server.log for more details.
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishJarFile(GlassFishServerBehaviour.java:896)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:832)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY oracle.eclipse.tools.glassfish 4 0 2018-02-01 17:45:09.553
+!MESSAGE cannot Deploy Testmart
+!STACK 0
+java.lang.Exception: deploy is failing=Error occurred during deployment: Exception while loading the app : java.lang.IllegalStateException: ContainerBase.addChild: start: org.apache.catalina.LifecycleException: java.lang.RuntimeException: Servlet web service endpoint '' failure. Please see server.log for more details.
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishJarFile(GlassFishServerBehaviour.java:896)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModuleForGlassFishV3(GlassFishServerBehaviour.java:832)
+	at oracle.eclipse.tools.glassfish.GlassFishServerBehaviour.publishModule(GlassFishServerBehaviour.java:790)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModule(ServerBehaviourDelegate.java:1091)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publishModules(ServerBehaviourDelegate.java:1183)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:987)
+	at org.eclipse.wst.server.core.model.ServerBehaviourDelegate.publish(ServerBehaviourDelegate.java:774)
+	at org.eclipse.wst.server.core.internal.Server.publishImpl(Server.java:3182)
+	at org.eclipse.wst.server.core.internal.Server$PublishJob.run(Server.java:355)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY org.eclipse.jface.text 2 0 2018-02-01 17:52:56.234
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-02-01 17:52:56.235
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2018-02-05 13:52:20.951 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-02-05 13:52:35.268
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\manavs'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

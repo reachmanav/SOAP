@@ -1,0 +1,19 @@
+package org.manav.javabrains;
+
+import java.util.List;
+
+import javax.jws.WebMethod;
+
+import org.manav.javabrains.model.Product;
+
+public interface ProductCatalogInterface {
+
+	List<String> getProductCatalog();
+
+	List<String> getProduct(String category);
+
+	boolean addProduct(String category, int item);
+
+	List<Product> getProductv2(String category);
+
+}

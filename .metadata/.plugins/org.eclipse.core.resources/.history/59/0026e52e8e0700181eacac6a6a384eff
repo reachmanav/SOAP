@@ -1,0 +1,15 @@
+package org.manav.javabrains;
+
+import javax.jws.WebMethod;
+import javax.jws.WebService;
+
+@WebService
+public class ShopInfo {
+
+	@WebMethod
+	public String getShopInfo(String property)   {
+		String response = "Invalid Property";
+		
+		return response;
+	}
+}
